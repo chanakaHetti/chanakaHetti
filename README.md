@@ -1,4 +1,4 @@
-# Hi there, I'm Chanaka Hetti Arachchilage! 👋
+# Hi there, I'm Chanaka Hettiarachchi! 👋
 
 I'm a passionate JavaScript/TypeScript developer with over 7 years of experience, specializing in building modern web applications using React and Angular. I love exploring the latest technologies and frameworks to create innovative solutions.
 
@@ -46,7 +46,7 @@ I occasionally write about web development, JavaScript, React, and Angular on my
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://uk.linkedin.com/in/chanaka-hettiarachchi)
+- LinkedIn: [Chanaka Hettiarachchi](https://uk.linkedin.com/in/chanaka-hettiarachchi)
 <!--
 - Twitter: [@YourTwitterHandle](link-to-Twitter)
 - Website: [Your Portfolio or Personal Website](link-to-website)
