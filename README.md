@@ -1,6 +1,6 @@
 # Hi there, I'm Chanaka Hettiarachchi! 👋
 
-I'm a passionate JavaScript/TypeScript developer with over 7 years of experience, specializing in building modern web applications using React and Angular. I love exploring the latest technologies and frameworks to create innovative solutions.
+Self-motivated Test Driven TypeScript/ JavaScript and Python Developer in the Cloud environment. Expert in Object-Oriented Programming and Data Structures with hands-on Problem-Solving skills with over seven years of industry experience and AWS services with proven leadership and mentorship skills.
 
 ## 🔧 Technologies & Tools
 
