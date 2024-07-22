@@ -31,13 +31,13 @@ Self-motivated Test Driven TypeScript/ JavaScript and Python Developer in the Cl
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/chanaka-hettiarachchi/" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://chanaka.co.uk/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="website" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/youruserid/yourusername" target="_blank">
+  <a href="https://stackoverflow.com/users/8860607/c-ha" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow" height="30" width="40" />
   </a>
 </p>
