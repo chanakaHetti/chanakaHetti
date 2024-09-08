@@ -1,13 +1,25 @@
 # Hi there, I'm Chanaka Hettiarachchi! 👋
 
-<div style="display: flex; align-ites: center; margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanakaHetti&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaHetti&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;" />
+<dic style="display: flex; gap: 30">
+<div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanakaHetti&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 50%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaHetti&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: auto;" />
 </div>
 
+<br />
+
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=chanakaHetti&theme=radical&border_radius=4&card_width=668&type=png" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+  </a>
+</div>
+
+<br />
 
 ![Profile views](https://komarev.com/ghpvc/?username=chanakaHetti&color=blue)
 
+</div>
 
 ## About Me
 
