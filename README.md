@@ -3,7 +3,7 @@
 <dic style="display: flex; gap: 30">
 <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=chanakaHetti&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 50%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaHetti&layout=compact&theme=radical&langs_count=10" alt="Top Languages" style="width: 48%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaHetti&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: auto;" />
 </div>
 
 <br />
